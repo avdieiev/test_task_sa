@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+.row {
+}
+
+.cell {
+  border: 1px solid #a6a6a6;
+  width: 10px;
+  height: 10px;
+}
+
+.cell_live {
+  background-color: #000;
+}
+
